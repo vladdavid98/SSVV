@@ -1,0 +1,9 @@
+1. CRUD for student entity.
+
+2. CRUD for theme entity.
+3. Extending the term of delivery for an existing subject (if the current week number is less
+than or equal to the number of weeks with the assignment deadline)
+
+4. CRUD for grade entity.
+
+
